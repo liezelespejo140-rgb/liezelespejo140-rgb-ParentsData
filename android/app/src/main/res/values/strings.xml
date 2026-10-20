@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ISAT U Parent Link</string>
+    <string name="title_activity_main">ISAT U Parent Link</string>
+    <string name="package_name">edu.isatu.parentsportal</string>
+    <string name="custom_url_scheme">edu.isatu.parentsportal</string>
+</resources>

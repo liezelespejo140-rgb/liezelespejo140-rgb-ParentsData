@@ -1,0 +1,8 @@
+{
+  "name": "ISAT U Parent Portal of their student Academic Monitoring Portal",
+  "description": "Comprehensive parent database, involvement monitoring, student academic progress tracking, and automated event notifications for Iloilo Science and Technology University.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
